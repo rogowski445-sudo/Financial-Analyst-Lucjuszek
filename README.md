@@ -2,7 +2,7 @@
 
 Agent do automatycznej analizy finansowej spółek giełdowych. Pobiera dane rynkowe i fundamentalne, a następnie generuje raport inwestycyjny przy pomocy modelu Gemini 2.5 Flash.
 
-Projekt stworzony wspólnie przez człowieka i Claude (Anthropic).
+Projekt stworzony przy pomocy Claude Code (Anthropic)
 
 ## Architektura
 
